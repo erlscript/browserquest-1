@@ -6,3 +6,6 @@ log/
 apps/browserquest_srv/log
 apps/browserquest_srv/ebin
 erl_crash.dump
+
+rebar3
+_build
